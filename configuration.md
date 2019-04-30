@@ -5,10 +5,9 @@
 
 # Docs
 ## Understand ConfigMaps
-
-
-## Understand Deployments and how to perform rolling updates
-
+https://kubernetes.io/blog/2016/04/configuration-management-with-containers/
+https://medium.com/google-cloud/kubernetes-configmaps-and-secrets-68d061f7ab5b
+https://matthewpalmer.net/kubernetes-app-developer/articles/ultimate-configmap-guide-kubernetes.html
 
 ## Understand SecurityContexts 
 
